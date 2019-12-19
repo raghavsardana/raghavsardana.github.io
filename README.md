@@ -4,4 +4,4 @@ I am currently working as Project Assistant-II at CSIR-Central Scientific Instru
 
 ### Publications
 
-Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar (2019). Minimum Joint Forward-Backward Visual Odometry for Stereo Cameras. Advances in Robotics. ACM. (in press)
+Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar (2019). Joint Forward-Backward Visual Odometry for Stereo Cameras. Advances in Robotics. ACM. (in press)
