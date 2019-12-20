@@ -8,6 +8,6 @@ Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar, "Joint Forward-Backwa
 
 ### Education
 
-Bachelor of Engineering (BE), Electronics and Communication\
-Chitkara University, Himachal Pradesh\
+Bachelor of Engineering (BE), Electronics and Communication<br/>
+Chitkara University, Himachal Pradesh<br/>
 2013-2017
