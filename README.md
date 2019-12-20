@@ -1,5 +1,5 @@
 ## Welcome to my website
-![raghav_photo](imgs/raghav.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![raghav_photo](imgs/raghav.jpeg){:style=float}
 
 I am currently working as Project Assistant-II at CSIR-Central Scientific Instruments Organisation. My research intrests include computer vision, vision based navigation and perception.
 
