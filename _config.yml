@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: Raghav Sardana
 description: Project Assistant, CSIR-Central Scientific Instruments Organisation 
 google_analytics: UA-154870599-1
-linkedin: raghavsardana
+social-network-links:
+  linkedin: raghavsardana
