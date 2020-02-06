@@ -1,7 +1,7 @@
 ## Welcome to my website
 <img align="right" src="imgs/raghav.jpeg">
 
-I am currently a pursuing my Masters and PhD at Academy of Scientific & Innovative Reseach (AcSIR-CSIO). I have previously worked as Project Assistant-II at CSIR-Central Scientific Instruments Organisation. My research intrests include computer vision, vision based navigation and perception.
+I am currently pursuing my Masters and PhD at Academy of Scientific & Innovative Reseach (AcSIR-CSIO). I have previously worked as Project Assistant-II at CSIR-Central Scientific Instruments Organisation. My research intrests include computer vision, vision based navigation and perception.
 
 ### Projects
 
