@@ -10,8 +10,9 @@ I am currently a pursuing my Masters and PhD at Academy of Scientific & Innovati
 
 ### Publications
 
-Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar, "Joint Forward-Backward Visual Odometry for Stereo Cameras," Advances in Robotics, 2019. ACM. (in press)<br/>
+Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar, "Joint Forward-Backward Visual Odometry for Stereo Cameras," Advances in Robotics, 2019. ACM.<br/>
 [(arXiv)](https://arxiv.org/abs/1912.10293)
+[(doi)](https://doi.org/10.1145/3352593.3352651)
 
 ### Experience
 
