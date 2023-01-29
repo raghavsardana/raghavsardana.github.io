@@ -9,6 +9,8 @@ I am currently pursuing my Masters and PhD at Academy of Scientific & Innovative
 * Software for Electronic Nose
 
 ### Publications
+Kottath, R., Poddar, S., Sardana, R. et al. Mutual Information Based Feature Selection for Stereo Visual Odometry. J Intell Robot Syst 100, 1559–1568 (2020).<br/>
+[(doi)](https://doi.org/10.1007/s10846-020-01206-z)
 
 Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar, "Joint Forward-Backward Visual Odometry for Stereo Cameras," Advances in Robotics, 2019. ACM.<br/>
 [(arXiv)](https://arxiv.org/abs/1912.10293)
