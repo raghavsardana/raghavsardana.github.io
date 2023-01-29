@@ -22,6 +22,11 @@ I am currently pursuing my Masters and PhD at Academy of Scientific & Innovative
 
 ### Experience
 
+* __Project Associate-II__<br/>
+Visual-Inertial Odometry for navigation of unmanned vehicle in GPS denied environment<br/>
+CSIR-Central Scientific Instruments Organisation<br/>
+2022-Present<br/>
+
 * __Project Assistant-II__<br/>
 Design and Development of Visual Odometry System<br/>
 CSIR-Central Scientific Instruments Organisation<br/>
