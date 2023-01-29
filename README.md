@@ -9,6 +9,10 @@ I am currently pursuing my Masters and PhD at Academy of Scientific & Innovative
 * Software for Electronic Nose
 
 ### Publications
+Sardana, R., Karar, V. & Poddar, S. Improving visual odometry pipeline with feedback from forward and backward motion estimates. Machine Vision and Applications 34, 24 (2023).<br/>
+[(doi)](https://doi.org/10.1007/s00138-023-01370-w)
+[(SharedIt)](https://rdcu.be/c4jIK)
+
 Kottath, R., Poddar, S., Sardana, R. et al. Mutual Information Based Feature Selection for Stereo Visual Odometry. J Intell Robot Syst 100, 1559–1568 (2020).<br/>
 [(doi)](https://doi.org/10.1007/s10846-020-01206-z)
 
