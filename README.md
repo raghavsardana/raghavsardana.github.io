@@ -9,14 +9,17 @@ I am currently pursuing my Masters and PhD at Academy of Scientific & Innovative
 * Software for Electronic Nose
 
 ### Publications
-1. Sardana, R., Karar, V. & Poddar, S. Improving visual odometry pipeline with feedback from forward and backward motion estimates. Machine Vision and Applications 34, 24 (2023).<br/>
+1. Sardana, R., and Poddar, S. "AWL-VIO: Adaptive window length–based visual-inertial odometry using statistical measures." Transactions of the Institute of Measurement and Control (2025)<br/>
+[(doi)](https://doi.org/10.1177/01423312251329627)
+
+2. Sardana, R., Karar, V. & Poddar, S. Improving visual odometry pipeline with feedback from forward and backward motion estimates. Machine Vision and Applications 34, 24 (2023).<br/>
 [(doi)](https://doi.org/10.1007/s00138-023-01370-w)
 [(SharedIt)](https://rdcu.be/c4jIK)
 
-2. Kottath, R., Poddar, S., Sardana, R. et al. Mutual Information Based Feature Selection for Stereo Visual Odometry. J Intell Robot Syst 100, 1559–1568 (2020).<br/>
+3. Kottath, R., Poddar, S., Sardana, R. et al. Mutual Information Based Feature Selection for Stereo Visual Odometry. J Intell Robot Syst 100, 1559–1568 (2020).<br/>
 [(doi)](https://doi.org/10.1007/s10846-020-01206-z)
 
-3. Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar, "Joint Forward-Backward Visual Odometry for Stereo Cameras," Advances in Robotics, 2019. ACM.<br/>
+4. Raghav Sardana, Rahul Kottath, Vinod Karar, Shashi Poddar, "Joint Forward-Backward Visual Odometry for Stereo Cameras," Advances in Robotics, 2019. ACM.<br/>
 [(arXiv)](https://arxiv.org/abs/1912.10293)
 [(doi)](https://doi.org/10.1145/3352593.3352651)
 
